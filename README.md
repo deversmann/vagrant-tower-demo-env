@@ -1,2 +1,1 @@
-# vagrant-tower-demo-env
-Old name of a new project... see deversmann/ansible-demo-env now.
+This project has been renamed... see [deversmann/ansible-demo-env](https://github.com/deversmann/ansible-demo-env) now.
